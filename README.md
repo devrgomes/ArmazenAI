@@ -48,11 +48,11 @@ git clone https://github.com/devrgomes/armazenai.git
    
 2. Importe o projeto na IDE NetBeans (ou Eclipse/IntelliJ, se preferir).
 
-- Configure o banco de dados:
+3. Configure o banco de dados:
 
 - Crie o banco e execute os scripts SQL da pasta /database/.
 
-3. Atualize as credenciais de acesso ao banco na classe de conexão.
+- Atualize as credenciais de acesso ao banco na classe de conexão.
 
 4. Execute a aplicação pela classe principal "Main.java".
 
