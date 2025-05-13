@@ -1,6 +1,7 @@
-package model;
+package  model;
 
 public class Categoria {
+
 
     private String nomeCategoria;
     private String descricaoCategoria;
